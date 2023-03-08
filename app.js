@@ -11,3 +11,6 @@ code.appendChild(codeWarsSampleCode)
 
 const codeWarsAnswer = document.createTextNode('This is the sample answer')
 answer.appendChild(codeWarsAnswer)
+
+// run in terminal
+// python -m http.server 8000
